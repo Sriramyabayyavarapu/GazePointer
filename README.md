@@ -1,4 +1,4 @@
-# Eye-Controlled Mouse
+# GazePointer
 
 This project implements an eye-controlled mouse using Python, OpenCV, and MediaPipe. The program tracks eye movement and blinks to move the mouse pointer and perform clicks on the screen.
 
@@ -26,7 +26,7 @@ Make sure you have the following dependencies installed:
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/eye-controlled-mouse.git
+git clone [https://github.com/your-username/GazePointer.git](https://github.com/Sriramyabayyavarapu/GazePointer.git)
 cd eye-controlled-mouse
 
 2. Install dependencies:
