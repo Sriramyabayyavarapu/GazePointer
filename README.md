@@ -1,6 +1,6 @@
 # GazePointer
 
-This project implements an eye-controlled mouse using Python, OpenCV, and MediaPipe. The program tracks eye movement and blinks to move the mouse pointer and perform clicks on the screen.
+This project implements an GazePointer using Python, OpenCV, and MediaPipe. The program tracks eye movement and blinks to move the mouse pointer and perform clicks on the screen.
 
 ### Features
 
@@ -27,7 +27,7 @@ Make sure you have the following dependencies installed:
 1. Clone this repository:
 
 git clone [https://github.com/your-username/GazePointer.git](https://github.com/Sriramyabayyavarapu/GazePointer.git)
-cd eye-controlled-mouse
+cd GazePointer
 
 2. Install dependencies:
 
@@ -37,7 +37,7 @@ pip install opencv-python mediapipe pyautogui
 
 Run the script:
 
-python eye_controlled_mouse.py
+python GazePointer.py
 
 ### How It Works
 
@@ -53,7 +53,7 @@ python eye_controlled_mouse.py
 
 ### Demo
 
-You can check out a demo of the eye-controlled mouse in action in the repository.
+You can check out a demo of the GazePointer in action in the repository.
 
 ### Acknowledgments
 
