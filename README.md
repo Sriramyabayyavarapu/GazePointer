@@ -27,6 +27,7 @@ Make sure you have the following dependencies installed:
 1. Clone this repository:
 
 git clone [https://github.com/your-username/GazePointer.git](https://github.com/Sriramyabayyavarapu/GazePointer.git)
+
 cd GazePointer
 
 2. Install dependencies:
