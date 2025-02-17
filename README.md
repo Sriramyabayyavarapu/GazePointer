@@ -1,4 +1,4 @@
-#Eye-Controlled Mouse
+##Eye-Controlled Mouse
 
 This project implements an eye-controlled mouse using Python, OpenCV, and MediaPipe. The program tracks eye movement and blinks to move the mouse pointer and perform clicks on the screen.
 
