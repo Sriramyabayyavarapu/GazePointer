@@ -1,16 +1,16 @@
-#Eye-Controlled Mouse
+# Eye-Controlled Mouse
 
 This project implements an eye-controlled mouse using Python, OpenCV, and MediaPipe. The program tracks eye movement and blinks to move the mouse pointer and perform clicks on the screen.
 
-Features
+### Features
 
-Tracks eye movement using MediaPipe's FaceMesh.
+- Tracks eye movement using MediaPipe's FaceMesh.
 
 Moves the mouse pointer based on eye gaze direction.
 
 Detects blinking to trigger a mouse click.
 
-Prerequisites
+### Prerequisites
 
 Make sure you have the following dependencies installed:
 
@@ -22,7 +22,7 @@ MediaPipe
 
 PyAutoGUI
 
-Installation
+### Installation
 
 Clone this repository:
 
@@ -33,13 +33,13 @@ Install dependencies:
 
 pip install opencv-python mediapipe pyautogui
 
-Usage
+### Usage
 
 Run the script:
 
 python eye_controlled_mouse.py
 
-How It Works
+### How It Works
 
 The webcam captures the user's face.
 
@@ -51,11 +51,11 @@ Mouse movement is controlled by the detected gaze direction.
 
 A blink (closing the eye for a short moment) triggers a mouse click.
 
-Demo
+### Demo
 
 You can check out a demo of the eye-controlled mouse in action in the repository.
 
-Acknowledgments
+### Acknowledgments
 
 OpenCV
 
@@ -63,7 +63,7 @@ MediaPipe
 
 PyAutoGUI
 
-License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
